@@ -1,0 +1,30 @@
+overhand_knot:
+    demo_bags:
+        - /home/joschu/python/lfd/data/bags/overhand_knot.bag
+    db_file: overhand_knot.h5
+figure8_knot:
+    demo_bags:
+        - /home/joschu/python/lfd/data/bags/figure8_knot1.bag
+        - /home/joschu/python/lfd/data/bags/figure8_knot2.bag
+    db_file: figure8_knot.h5
+fold_towel:
+    demo_bags:
+        - /home/joschu/Data/cloth_bags/sloppy_towel_fold.bag
+    db_file: fold_towel.h5
+    
+overhand_knot_colorful:
+    demo_bags:
+        - /home/joschu/Data/colorful_knot_bags/overhand_knot.bag
+    db_file: overhand_knot_colorful.h5
+fold_lengthwise:
+    demo_bags:
+        - /home/joschu/Data/colorful_knot_bags/fold_lengthwise.bag
+    db_file: fold_lengthwise.h5    
+three_fold:
+    demo_bags:
+        - /home/joschu/Data/colorful_knot_bags/three_fold.bag
+    db_file: three_fold.h5        
+tracking_demo_cloth:
+    demo_bags:
+        - /home/joschu/Data/bags/tracking_demo_cloth.bag
+    db_file: tracking_demo_cloth.h5
