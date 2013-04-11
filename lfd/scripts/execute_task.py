@@ -55,8 +55,8 @@ with open(osp.join(data_dir, "knot_demos.yaml"),"r") as fh:
     
 DS_LENGTH = .025
 DS_METHOD = "voxel"
-if args.task.startswith("fold"):
-    DS_METHOD="hull"
+#if args.task.startswith("fold"):
+#    DS_METHOD="hull"
 #else:
     #DS_METHOD = "voxel"
     
